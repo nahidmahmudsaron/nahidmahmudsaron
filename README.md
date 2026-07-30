@@ -78,7 +78,9 @@
 
 <div align="center">
 
-🚀 *"First, solve the problem. Then, write the code."*
+🚀 *"First, solve the problem. Then, write the code."* — John Johnson
+
+💡 *"If you want to be the best, you have to do things other people aren't willing to do. I swam every single day of the year — 365 days, no matter the occasion or if I was sick."* — Michael Phelps
 
 <br>
 
