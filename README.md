@@ -53,8 +53,7 @@
 ### 📊 GitHub Stats & Analytics
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nahid-mahmud-saron-29&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nahidmahmudsaron&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -66,19 +65,7 @@
 
 ---
 
-### 💬 Daily Developer Quote
-
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-🚀 *"First, solve the problem. Then, write the code."* — John Johnson
 
 💡 *"If you want to be the best, you have to do things other people aren't willing to do. I swam every single day of the year — 365 days, no matter the occasion or if I was sick."* — Michael Phelps
 
