@@ -50,15 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats & Analytics
-
-<div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidmahmudsaron&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidmahmudsaron&theme=tokyo-night&hide_border=true)
