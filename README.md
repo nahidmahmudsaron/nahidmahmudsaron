@@ -9,27 +9,10 @@
 
 🎓 Student | 📱 Android Developer | 🌱 Always Learning
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/nahidmahmudsaron">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nahidmahmudsaron@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/nahidmahmudsaron?style=social)](https://github.com/nahidmahmudsaron)
 [![GitHub stars](https://img.shields.io/github/stars/nahidmahmudsaron?style=social)](https://github.com/nahidmahmudsaron)
 
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nahidmahmudsaron&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -71,11 +54,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidmahmudsaron&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidmahmudsaron&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nahidmahmudsaron&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nahid-mahmud-saron-29&theme=tokyonight&hide_border=true)
 
 </div>
 
