@@ -53,7 +53,7 @@
 ### 📊 GitHub Stats & Analytics
 
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=nahidmahmudsaron&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidmahmudsaron&theme=tokyonight&hide_border=true)
 
 </div>
 
