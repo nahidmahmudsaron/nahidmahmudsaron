@@ -35,18 +35,18 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### Libraries & Frameworks
+![Glide](https://img.shields.io/badge/Glide-18BFFF?style=for-the-badge&logo=android&logoColor=white)
+![Volley](https://img.shields.io/badge/Volley-0052CC?style=for-the-badge&logo=android&logoColor=white)
+![Picasso](https://img.shields.io/badge/Picasso-E10098?style=for-the-badge&logo=android&logoColor=white)
+![Lottie](https://img.shields.io/badge/Lottie-FF4D4D?style=for-the-badge&logo=airbnb&logoColor=white)
+
 #### Platform & Tools
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### Libraries & Frameworks
-![Glide](https://img.shields.io/badge/Glide-18BFFF?style=for-the-badge&logo=android&logoColor=white)
-![Volley](https://img.shields.io/badge/Volley-0052CC?style=for-the-badge&logo=android&logoColor=white)
-![Picasso](https://img.shields.io/badge/Picasso-E10098?style=for-the-badge&logo=android&logoColor=white)
-![Lottie](https://img.shields.io/badge/Lottie-FF4D4D?style=for-the-badge&logo=airbnb&logoColor=white)
 
 ---
 
